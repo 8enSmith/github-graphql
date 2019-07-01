@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Note to get this working you will need an access token from GitHub. This access token will requires the scopes: repo, notifications and user.
+
 ## Available Scripts
 
 In the project directory, you can run:
